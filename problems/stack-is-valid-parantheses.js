@@ -22,3 +22,7 @@ export default function(inputStr) {
     }
     return stack.isEmpty();
 };
+
+// Time complexity: O(n)
+// Space complexity: O(n)
+// Where n is the length of the input
