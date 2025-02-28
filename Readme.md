@@ -6,9 +6,9 @@ A collection of **reusable Data Structure & Algorithm (DSA) templates** with cor
 
 | **Template**          | **Problem(s)** |                                                                                                            
 |-----------------------|------------------------------------------------------------------------------------------------------|
-| **[Singly Linked List](./templates/singly-linked-list)**       | |
-| **[Stack](./templates/stack)**             | - [Is Valid Parentheses](./problems/stack-is-valid-parentheses.js) <br>             | 
-| **[Queue](./templates/queue)**             |  |
+| **[Singly Linked List](templates/singly-linked-list.js)**       | |
+| **[Stack](templates/stack.js)**             | - [Is Valid Parentheses](problems/stack-is-valid-parantheses.js) <br>             | 
+| **[Queue](templates/queue.js)**             |  |
 
 
 ## 🚀 Getting Started
