@@ -1,6 +1,6 @@
 import Stack from '../templates/stack.js';
 
-function isValidParantheses(inputStr) {
+export default function(inputStr) {
     const stack = new Stack();
     const pairs = {
         '(': ')',
@@ -22,6 +22,3 @@ function isValidParantheses(inputStr) {
     }
     return stack.isEmpty();
 };
-
-export default isValidParantheses;
-
