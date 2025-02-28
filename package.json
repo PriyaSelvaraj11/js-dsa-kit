@@ -1,0 +1,16 @@
+{
+  "name": "js-dsa-kit",
+  "version": "1.0.0",
+  "description": "Reusable data structure and algorithm templates for problem solving.",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.0.0"
+  },
+  "author": "Priya Dharshini Selvaraj",
+  "license": "MIT"
+}
