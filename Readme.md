@@ -2,13 +2,27 @@
 
 A collection of **reusable Data Structure & Algorithm (DSA) templates** with corresponding problems that use them.
 
-## Templates & Problems Table
+## Templates
+- **[Singly Linked List](templates/singly-linked-list.js)**
+- **[Stack](templates/stack.js)**
+- **[Queue](templates/queue.js)**
+- **HashSet**
 
-| **Template**          | **Problem(s)** |                                                                                                            
-|-----------------------|------------------------------------------------------------------------------------------------------|
-| **[Singly Linked List](templates/singly-linked-list.js)**       | |
-| **[Stack](templates/stack.js)**             | - [Is Valid Parentheses](problems/stack-is-valid-parantheses.js) <br>             | 
-| **[Queue](templates/queue.js)**             |  |
+## Problems
+- **Stack**
+   - [Is Valid Parentheses](problems/stack-is-valid-parantheses.js)
+- **HashSet**
+   - [Happy Number](problems/fsp-happy-number.js)
+- **Fast / slow pointer**
+   - [Happy Number](problems/fsp-happy-number.js)
+- **Two pointer**
+   - [Dutch national flag problem](problems/tp-0-1-2.js)
+   - [Triplet sum](problems/tp-triplet-sum.js)
+   - [Target sum pair](problems/tp-target-sum-pair.js)
+- **Sliding window**
+   - [Fruit basket](problems/slidingwindow-fruit-basket.js)
+   - [Smallest Subarray With a Greater Sum](problems/slidingwindow-small-subarray-sum.js)
+   - [Maximum Sum Subarray of Size K](problems/slidingwindow-small-subarray-sum.js)
 
 
 ## 🚀 Getting Started
