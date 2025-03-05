@@ -1,4 +1,4 @@
-import Stack from '../templates/stack.js';
+import Stack from '../data-structures/stack.js';
 
 export default function(inputStr) {
     const stack = new Stack();
