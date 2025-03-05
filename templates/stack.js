@@ -1,3 +1,11 @@
+// Applications
+// 1. Function call stack (Memory Management)
+// 2. Browser history
+// 3. Undo functionality in text editors
+// 4. Depth-First Search (DFS)
+// 5. Backtracking Algorithms
+// 6. Expression Evaluation and Syntax Parsing
+
 class Stack {
     constructor() {
         this.items = [];
