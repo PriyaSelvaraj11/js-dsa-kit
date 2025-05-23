@@ -7,9 +7,15 @@ A collection of data structures, algorithm patterns, and coding problem solution
 - **[Stack](data-structures/stack.js)**
 - **[Queue](data-structures/queue.js)**
 - **[Binary Search Tree](data-structures/binary-search-tree.js)**
-- **[Hash Map](data-structures/hashmap.js)**
-- **[Min Heap](data-structures/minheap.js)**
+- **[Hash Map](data-structures/hash-map.js)**
+- **[Min Heap](data-structures/min-heap.js)**
+- **[Max Heap](data-structures/max-heap.js)**
+- **[Hash Set](data-structures/hash-set.js)**
+- **[Trie](data-structures/trie.js)**
 - **[Undirected Graph](data-structures/undirected-graph.js)**
+- **[Directed Graph](data-structures/directed-graph.js)**
+- **[Monotonic Stack](data-structures/monotonic-stack.js)**
+- **[Priority Queue](data-structures/priority-queue.js)**
 
 ## Coding Problem Solutions
 - **Stack**

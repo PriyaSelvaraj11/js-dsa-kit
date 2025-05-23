@@ -40,7 +40,7 @@ export default HashMap;
 
 // Example Usage
 
-// import HashMap from './hashmap.js';
+// import HashMap from './hash-map.js';
 // const hm = new HashMap();
 // hm.set('a', 1);
 // hm.set('b', 2);
