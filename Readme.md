@@ -6,6 +6,10 @@ A collection of data structures, algorithm patterns, and coding problem solution
 - **[Singly Linked List](data-structures/singly-linked-list.js)**
 - **[Stack](data-structures/stack.js)**
 - **[Queue](data-structures/queue.js)**
+- **[Binary Search Tree](data-structures/binary-search-tree.js)**
+- **[Hash Map](data-structures/hashmap.js)**
+- **[Min Heap](data-structures/minheap.js)**
+- **[Undirected Graph](data-structures/undirected-graph.js)**
 
 ## Coding Problem Solutions
 - **Stack**
